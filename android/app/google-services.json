@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812475982094",
+    "project_id": "chat-zone-ebc0d",
+    "storage_bucket": "chat-zone-ebc0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812475982094:android:f365b6ba49cdbee0f9775f",
+        "android_client_info": {
+          "package_name": "com.SohanShrungare.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812475982094-a9hdk0faefnv62g69rda9a8mn9oru05v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBe85uucXehKexKGKJ-js2-i1D-7C0uAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812475982094-a9hdk0faefnv62g69rda9a8mn9oru05v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
